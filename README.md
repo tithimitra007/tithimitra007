@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tithimitra007
-- 👀 I’m interested in Software Quality Assurance both manual and automated 
+- 👀 I’m interested in Software Quality Assurance 
 - 🌱 I’m currently learning git 
 - 💞️ I’m looking to collaborate on Qualit Assurance
 
