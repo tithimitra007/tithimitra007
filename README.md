@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Quality Assurance both manual and automated 
 - 🌱 I’m currently learning git 
 - 💞️ I’m looking to collaborate on Qualit Assurance
-- 
+
 
 <!---
 tithimitra007/tithimitra007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
