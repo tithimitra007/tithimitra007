@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tithimitra007
-- 👀 I’m interested in Software Quality Assurance 
-- 🌱 I’m currently learning git & working with SW QA team
+- 👀 I’m interested in Software Testing & Quality Assurance 
+- 🌱 I’m currently learning git & working with SW Testing & QA team
 - 💞️ I’m looking to collaborate on Software testing
 
 
